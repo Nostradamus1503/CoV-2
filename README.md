@@ -1,7 +1,7 @@
-Sistema de Control Covid. ABM de Vacunas. ABM de Cepas.
+#Sistema de Control Covid. ABM de Vacunas. ABM de Cepas.
 
 ##################################################################
-VACUNAS
+#VACUNAS
 
 ##################################################################
 
@@ -17,7 +17,7 @@ VACUNAS
 
 
 ##################################################################
-CEPAS
+#MUTACIONES
 
 ##################################################################
 
@@ -32,5 +32,4 @@ CEPAS
 #Endpoint Modificar Cepa PUT /Strains/{id}
 
 #Endpoint Borrar Cepa DELETE /Strains/{id}
-
 
