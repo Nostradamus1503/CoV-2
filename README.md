@@ -1,7 +1,7 @@
-Sistema de Control Covid. ABM de Vacunas. ABM de Cepas.
+#Sistema de Control Covid. ABM de Vacunas. ABM de Cepas.
 
 ##################################################################
-VACUNAS
+#VACUNAS
 ##################################################################
 
 #Endpoint Alta Vacuna POST /Vaccines/
@@ -15,14 +15,14 @@ VACUNAS
 #Endpoint Borrar Vacuna DELETE /Vaccines/{id}
 
 ######################## D A T O S ###########################
-vacuna_id (autonum)
-vacuna_nombre(texto)
-vacuna_tipo (texto)
-vacuna_fabricante (texto)
-vacuna_cant_dosis(int)
+#vacuna_id (autonum)
+#vacuna_nombre(texto)
+#vacuna_tipo (texto)
+#vacuna_fabricante (texto)
+#vacuna_cant_dosis(int)
 
 ##################################################################
-MUTACIONES
+#MUTACIONES
 ##################################################################
 
 #Endpoint Alta Cepas POST /Strains/
@@ -38,8 +38,8 @@ MUTACIONES
 #Endpoint Borrar Cepa DELETE /Strains/{id}
 
 ######################## D A T O S ###########################
-mutacion_id(autonum)
-mutacion_nombre(texto)
-mutacion_tipo(texto)
-mutacion_pais_origen(texto)
+#mutacion_id(autonum)
+#mutacion_nombre(texto)
+#mutacion_tipo(texto)
+#mutacion_pais_origen(texto)
 
