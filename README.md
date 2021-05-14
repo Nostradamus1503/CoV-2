@@ -19,9 +19,13 @@
 ########################## D A T O S ######################################
 
 #vacuna_id (autonum)
+
 #vacuna_nombre(texto)
+
 #vacuna_tipo (texto)
+
 #vacuna_fabricante (texto)
+
 #vacuna_cant_dosis(int)
 
 ###########################################################################
@@ -45,7 +49,10 @@
 ########################## D A T O S ######################################
 
 #mutacion_id(autonum)
+
 #mutacion_nombre(texto)
+
 #mutacion_tipo(texto)
+
 #mutacion_pais_origen(texto)
 
